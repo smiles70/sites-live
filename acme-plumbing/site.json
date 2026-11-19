@@ -1,0 +1,23 @@
+{
+ "brand": {
+  "name": "Acme Plumbing",
+  "tone": "direct, trustworthy",
+  "colors": {
+   "primary": "#1d4ed8"
+  }
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Acme Plumbing \u2014 24/7 local plumbers"
+  },
+  {
+   "path": "/services",
+   "title": "Services"
+  },
+  {
+   "path": "/contact",
+   "title": "Contact"
+  }
+ ]
+}
