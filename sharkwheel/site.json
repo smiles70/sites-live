@@ -1,0 +1,24 @@
+{
+ "brand": {
+  "name": "Shark Wheel",
+  "tone": "technical, bold",
+  "colors": {
+   "primary": "#7c3aed"
+  }
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Shark Wheel"
+  },
+  {
+   "path": "/technology",
+   "title": "The sine-wave wheel"
+  }
+ ],
+ "meta": {
+  "retired": true,
+  "retired_reason": "superseded \u2014 live monitored site is site 41",
+  "retired_at": "2026-10-28"
+ }
+}
