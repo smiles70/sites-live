@@ -1,0 +1,33 @@
+{
+ "brand": {
+  "name": "Mynaani",
+  "tone": "Mynaani is calm, self-paced AI learning designed for adults 55+ \u2014 plain language",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "http://www.mynaani.com",
+ "meta": {
+  "language": "",
+  "description": "Mynaani is calm, self-paced AI learning designed for adults 55+ \u2014 plain language, no tests, no pressure. For learners, caregivers, and senior living communities."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Mynaani",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Mynaani"
+    },
+    {
+     "type": "intro",
+     "content": "Mynaani is calm, self-paced AI learning designed for adults 55+ \u2014 plain language, no tests, no pressure. For learners, caregivers, and senior living communities."
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 0 links parsed"
+}

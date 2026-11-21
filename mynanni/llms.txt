@@ -1,0 +1,5 @@
+# Mynaani
+
+> Mynaani is calm, self-paced AI learning designed for adults 55+ — plain language, no tests, no pressure. For learners, caregivers, and senior living communities.
+
+- [Mynaani](/)
