@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Affordable Dental Insurance Plans",
+  "tone": "Shop affordable individual & group dental insurance plans from America's largest",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.deltadental.com/",
+ "meta": {
+  "language": "",
+  "description": "Shop affordable individual & group dental insurance plans from America's largest and most trusted dental insurance carrier."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Affordable Dental Insurance Plans | Delta Dental",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Looking for a dentist?"
+    },
+    {
+     "type": "intro",
+     "content": "Shop affordable individual & group dental insurance plans from America's largest and most trusted dental insurance carrier."
+    }
+   ]
+  },
+  {
+   "path": "/secure/member-dashboard/",
+   "title": "My member dashboard",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "void(0)",
+   "title": "Sign out",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/product/",
+   "title": "Insurance products",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/product/individual-and-family/",
+   "title": "Individual dental insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 136 links parsed"
+}
