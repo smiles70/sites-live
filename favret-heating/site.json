@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Favret Heating and Cooling",
+  "tone": "Since 1924 we have grown to be a leader in both residential and commercial  heat",
+  "colors": {
+   "primary": "#32373c"
+  },
+  "palette": [
+   "#32373c",
+   "#112337",
+   "#313131",
+   "#00d084",
+   "#0693e3"
+  ],
+  "fonts": [
+   "inherit"
+  ]
+ },
+ "source_url": "https://favret.com/",
+ "meta": {
+  "language": "",
+  "description": "Since 1924 we have grown to be a leader in both residential and commercial  heating and cooling in Central Ohio"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Favret Heating and Cooling \u2013 Since 1924 we have grown to be a leader in both residential and commercial  heating and cooling in Central Ohio",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Favret Heating"
+    },
+    {
+     "type": "intro",
+     "content": "Since 1924 we have grown to be a leader in both residential and commercial  heating and cooling in Central Ohio"
+    }
+   ]
+  },
+  {
+   "path": "/about-us/",
+   "title": "About",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/employment-opportunities/",
+   "title": "Employment Opportunities",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/maintenance-plans/",
+   "title": "Maintenance Plans",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/residential-financing/",
+   "title": "Residential Financing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "89 non-neutral hexes, 82 links parsed"
+}
