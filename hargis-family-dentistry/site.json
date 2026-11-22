@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Burlington NC Family Dentist",
+  "tone": "Family-focused dental care in Burlington, NC: exams, cleanings, cosmetic and res",
+  "colors": {
+   "primary": "#188bf6"
+  },
+  "palette": [
+   "#188bf6",
+   "#2fa6b0",
+   "#86bcde",
+   "#cacaca",
+   "#f5f5f5"
+  ],
+  "fonts": [
+   "var(--contentfont)",
+   "var(--headlinefont)",
+   "var(--raleway)"
+  ]
+ },
+ "source_url": "https://hargisfamilydentistry.com/",
+ "meta": {
+  "language": "",
+  "description": "Family-focused dental care in Burlington, NC: exams, cleanings, cosmetic and restorative treatment from Dr. Leslie Hargis and team. Request an appointment."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Burlington NC Family Dentist | Hargis Family Dentistry",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "WHO WE ARE"
+    },
+    {
+     "type": "intro",
+     "content": "Family-focused dental care in Burlington, NC: exams, cleanings, cosmetic and restorative treatment from Dr. Leslie Hargis and team. Request an appointment."
+    }
+   ]
+  },
+  {
+   "path": "/meet-the-team",
+   "title": "Meet the Team",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/cosmetic-dentistry",
+   "title": "Cosmetic Dentistry",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/bridge-and-crown",
+   "title": "Crowns & Bridges",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/invisalign",
+   "title": "Invisalign",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "111 non-neutral hexes, 75 links parsed"
+}
