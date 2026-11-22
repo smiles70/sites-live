@@ -1,0 +1,77 @@
+{
+ "brand": {
+  "name": "Simply",
+  "tone": "",
+  "colors": {
+   "primary": "#ff0000"
+  },
+  "palette": [
+   "#ff0000"
+  ],
+  "fonts": [
+   "Arial"
+  ]
+ },
+ "source_url": "https://www.simplydental.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Simply | Dental",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Simply"
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/invisalign.html",
+   "title": "Invisible Braces",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/dentalimplants.html",
+   "title": "Dental Implants",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/teethwhitening.html",
+   "title": "Teeth Whitening",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/cosmetic.html",
+   "title": "Porcelain Veneers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "1 non-neutral hexes, 10 links parsed"
+}
