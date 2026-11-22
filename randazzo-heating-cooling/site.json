@@ -1,0 +1,33 @@
+{
+ "brand": {
+  "name": "",
+  "tone": "",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.randazzo.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "",
+   "sections": [
+    {
+     "type": "hero",
+     "content": ""
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 0 links parsed"
+}
