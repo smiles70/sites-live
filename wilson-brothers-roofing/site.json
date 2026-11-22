@@ -1,0 +1,63 @@
+{
+ "brand": {
+  "name": "Plumber, HVAC Repair, Electrician & Furnace Repair",
+  "tone": "Wilson Brothers Heating and Air Conditioning provides top-notch AC repair, servi",
+  "colors": {
+   "primary": "#212529"
+  },
+  "palette": [
+   "#212529",
+   "#0d6efd",
+   "#6c757d",
+   "#dc3545",
+   "#198754"
+  ],
+  "fonts": [
+   "General Sans",
+   "var(--bs-font-sans-serif)",
+   "system-ui"
+  ]
+ },
+ "source_url": "https://www.wilsonbrothers.com/",
+ "meta": {
+  "language": "",
+  "description": "Wilson Brothers Heating and Air Conditioning provides top-notch AC repair, service, and installation in Pepperell, Groton, Townsend, Dunstable, and Fitchburg."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Plumber, HVAC Repair, Electrician & Furnace Repair | Pepperell, MA, Groton, MA, Townsend, MA, Dunstable, MA & Fitchburg, MA | Wilson Brothers Heating and Air Conditioning, Inc.",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Comfort You Can Count On. Service You Can Trust."
+    },
+    {
+     "type": "intro",
+     "content": "Wilson Brothers Heating and Air Conditioning provides top-notch AC repair, service, and installation in Pepperell, Groton, Townsend, Dunstable, and Fitchburg."
+    }
+   ]
+  },
+  {
+   "path": "/contact",
+   "title": "Claim This Offer",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/privacy-policy",
+   "title": "Privacy Policy",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "226 non-neutral hexes, 245 links parsed"
+}
