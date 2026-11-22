@@ -1,0 +1,77 @@
+{
+ "brand": {
+  "name": "Quinn Emanuel Trial Lawyers",
+  "tone": "Quinn Emanuel is the largest law firm in the world devoted solely to business li",
+  "colors": {
+   "primary": "#333f48"
+  },
+  "palette": [
+   "#333f48",
+   "#48a8c0",
+   "#a3bb05"
+  ],
+  "fonts": []
+ },
+ "source_url": "https://www.quinnemanuel.com/",
+ "meta": {
+  "language": "",
+  "description": "Quinn Emanuel is the largest law firm in the world devoted solely to business litigation and arbitration."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Quinn Emanuel Trial Lawyers - Quinn Emanuel Urquhart & Sullivan, LLP",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Looking for a specific attorney?"
+    },
+    {
+     "type": "intro",
+     "content": "Quinn Emanuel is the largest law firm in the world devoted solely to business litigation and arbitration."
+    }
+   ]
+  },
+  {
+   "path": "/attorneys",
+   "title": "Attorneys",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/practice-areas/",
+   "title": "Practice Areas",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/tariff-refund-task-force/",
+   "title": "Tariff Refund Task Force",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/practice-areas/india-disputes-practice/",
+   "title": "India Disputes Practice",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "3 non-neutral hexes, 249 links parsed"
+}
