@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Always Best Care Senior Services",
+  "tone": "Compassionate in home care for seniors at Always Best Care Senior Services. Pers",
+  "colors": {
+   "primary": "#0c4da2"
+  },
+  "palette": [
+   "#0c4da2",
+   "#32373c",
+   "#abb8c3",
+   "#f78da7",
+   "#cf2e2e"
+  ],
+  "fonts": [
+   "inherit",
+   "Nunito",
+   "var(--font-family-primary)"
+  ]
+ },
+ "source_url": "https://www.alwaysbestcare.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Compassionate in home care for seniors at Always Best Care Senior Services. Personalized support for a comfortable and independent lifestyle. Contact Us Now."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "In-Home Senior Care | Always Best Care Senior Services",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Senior Care Services"
+    },
+    {
+     "type": "intro",
+     "content": "Compassionate in home care for seniors at Always Best Care Senior Services. Personalized support for a comfortable and independent lifestyle. Contact Us Now."
+    }
+   ]
+  },
+  {
+   "path": "/cdn-cgi/l/email-protection",
+   "title": "[email\u00a0protected]",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "void(0);",
+   "title": "Find Care Near You",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/veterans-assistance-program/",
+   "title": "Veterans Assistance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/always-in-touch/",
+   "title": "Learn More",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "80 non-neutral hexes, 148 links parsed"
+}
