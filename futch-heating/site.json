@@ -1,0 +1,61 @@
+{
+ "brand": {
+  "name": "Futch Heating and Air-Conditioning, INC",
+  "tone": "Explore Efficient HVAC Services with Futch Heating and Air Conditioning, INC and",
+  "colors": {
+   "primary": "#428bca"
+  },
+  "palette": [
+   "#428bca",
+   "#32373c",
+   "#313131",
+   "#00d084",
+   "#0693e3"
+  ],
+  "fonts": [
+   "inherit"
+  ]
+ },
+ "source_url": "https://futchheatingandair.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Explore Efficient HVAC Services with Futch Heating and Air Conditioning, INC and find Home tailored to your needs today."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Efficient HVAC Services | FHAACI",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Welcome to Futch Heating & Air Conditioning Inc,"
+    },
+    {
+     "type": "intro",
+     "content": "Explore Efficient HVAC Services with Futch Heating and Air Conditioning, INC and find Home tailored to your needs today."
+    }
+   ]
+  },
+  {
+   "path": "/services/",
+   "title": "Services",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/contact-us/",
+   "title": "Contact Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "91 non-neutral hexes, 13 links parsed"
+}
