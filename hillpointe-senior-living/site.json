@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Hillpointe",
+  "tone": "Hillpointe develops, builds, and manages attainable multifamily housing from the",
+  "colors": {
+   "primary": "#af8c56"
+  },
+  "palette": [
+   "#af8c56",
+   "#606876",
+   "#172946",
+   "#e5e8ec",
+   "#4ade80"
+  ],
+  "fonts": [
+   "&#x27"
+  ]
+ },
+ "source_url": "https://www.hillpointe.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Hillpointe develops, builds, and manages attainable multifamily housing from the Southeast to the Mountain West. Browse our communities, team, and approach."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Attainable multifamily developer and builder | Hillpointe",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Built"
+    },
+    {
+     "type": "intro",
+     "content": "Hillpointe develops, builds, and manages attainable multifamily housing from the Southeast to the Mountain West. Browse our communities, team, and approach."
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "title": "About Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/team",
+   "title": "Team",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/approach",
+   "title": "Our Approach",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/hillpointe-helps",
+   "title": "Hillpointe Helps",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "117 non-neutral hexes, 257 links parsed"
+}
