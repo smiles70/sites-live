@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Farr Family Heating and AIr",
+  "tone": "Explore expert HVAC solutions with Farr Family. Discover our services, book an a",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.farrfamilyheatingandair.com/",
+ "meta": {
+  "language": "",
+  "description": "Explore expert HVAC solutions with Farr Family. Discover our services, book an appointment, and experience unparalleled customer care ensuring year-round comfort."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Farr Family Heating and AIr | Trusted HVAC Experts",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Wichita\u2019s Family-Owned HVAC Company"
+    },
+    {
+     "type": "intro",
+     "content": "Explore expert HVAC solutions with Farr Family. Discover our services, book an appointment, and experience unparalleled customer care ensuring year-round comfort."
+    }
+   ]
+  },
+  {
+   "path": "/cart",
+   "title": "0",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/shop",
+   "title": "Shop",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/services",
+   "title": "Services",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "title": "About",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 23 links parsed"
+}
