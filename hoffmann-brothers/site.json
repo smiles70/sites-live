@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Hoffmann Brothers",
+  "tone": "Hoffmann Bros Heating, Air Conditioning, Plumbing, Electrical & Appliance Repair",
+  "colors": {
+   "primary": "#32373c"
+  },
+  "palette": [
+   "#32373c",
+   "#313131",
+   "#00d084",
+   "#0693e3",
+   "#7a00df"
+  ],
+  "fonts": [
+   "inherit"
+  ]
+ },
+ "source_url": "https://www.hoffmannbros.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Hoffmann Bros Heating, Air Conditioning, Plumbing, Electrical & Appliance Repair Contractor. Call for repair, installation, service, maintenance in St Louis, MO"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Hoffmann Brothers - Heating & Cooling, Plumbing and Electrical",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Serving St. Louis & Nashville"
+    },
+    {
+     "type": "intro",
+     "content": "Hoffmann Bros Heating, Air Conditioning, Plumbing, Electrical & Appliance Repair Contractor. Call for repair, installation, service, maintenance in St Louis, MO"
+    }
+   ]
+  },
+  {
+   "path": "/nashville",
+   "title": "Nashville",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/careers",
+   "title": "Careers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/air-conditioning",
+   "title": "Air Conditioning",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/air-conditioning/repairs",
+   "title": "AC Repairs",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "73 non-neutral hexes, 246 links parsed"
+}
