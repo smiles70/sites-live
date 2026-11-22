@@ -1,0 +1,82 @@
+{
+ "brand": {
+  "name": "Family Heating And Air Conditioning",
+  "tone": "",
+  "colors": {
+   "primary": "#fbfbfb"
+  },
+  "palette": [
+   "#fbfbfb",
+   "#046bd2",
+   "#045cb4",
+   "#1e293b",
+   "#334155"
+  ],
+  "fonts": [
+   "-apple-system",
+   "inherit"
+  ]
+ },
+ "source_url": "https://hvacfamily.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Family Heating And Air Conditioning | For All Your Hvacfamily",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Ask about our free 2nd opinions"
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/heating/",
+   "title": "Heating",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/cooling/",
+   "title": "Cooling",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/boilers/",
+   "title": "Boilers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/commercial/",
+   "title": "Commercial",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "57 non-neutral hexes, 55 links parsed"
+}
