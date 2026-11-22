@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Residential Roofing",
+  "tone": "Basey\u2019s Roofing has provided residential roofing in Oklahoma City, OK, since 197",
+  "colors": {
+   "primary": "#1a1a1a"
+  },
+  "palette": [
+   "#1a1a1a",
+   "#faf9f9",
+   "#d1d1d1",
+   "#cacaca",
+   "#ececec"
+  ],
+  "fonts": [
+   "FontAwesome",
+   "Poppins",
+   "inherit"
+  ]
+ },
+ "source_url": "https://www.baseysroofing.com/",
+ "meta": {
+  "language": "",
+  "description": "Basey\u2019s Roofing has provided residential roofing in Oklahoma City, OK, since 1978. Call (405) 755-8717 to schedule service."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Residential Roofing - Oklahoma City, OK - Basey\u2019s RoofingBlack and white rooftop graphic.Icon of a hammer and gear over a roof, representing construction or repair.Two stacked documents.Shield icon with a dollar sign.Black icon of a document with a box symbol and a badge, possibly representing a shipping certificate or certification.",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "A Family-Owned Residential Roofing Company"
+    },
+    {
+     "type": "intro",
+     "content": "Basey\u2019s Roofing has provided residential roofing in Oklahoma City, OK, since 1978. Call (405) 755-8717 to schedule service."
+    }
+   ]
+  },
+  {
+   "path": "/residential-roofing-new-installations",
+   "title": "Residential Roofing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/roof-damage-leaking-repair",
+   "title": "Roof Repairs",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/residential-roof-replacement-services",
+   "title": "Roof Replacements",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/residential-roof-leak-repair",
+   "title": "Roof  Leak Repair",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "49 non-neutral hexes, 75 links parsed"
+}
