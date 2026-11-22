@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Gallagher Group Limited",
+  "tone": "",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.gallagher.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Gallagher Group Limited",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Protecting your world for 89 years"
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/en/Our-Team",
+   "title": "Leadership",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/en/Gallagher-in-the-community",
+   "title": "Community",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/en/Contact-Us",
+   "title": "Contact US",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "void(0)",
+   "title": "Solutions",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 20 links parsed"
+}
