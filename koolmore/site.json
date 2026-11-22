@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Koolmore",
+  "tone": "Shop commercial refrigerators, freezers, ranges and prep tables plus home applia",
+  "colors": {
+   "primary": "#232323"
+  },
+  "palette": [
+   "#232323",
+   "#1d3461",
+   "#323232",
+   "#d12442",
+   "#3c3c3c"
+  ],
+  "fonts": [
+   "var(--font-body-family)",
+   "var(--lv-1-menu-font)",
+   "var(--lv-2-menu-font)"
+  ]
+ },
+ "source_url": "https://www.koolmore.com/",
+ "meta": {
+  "language": "",
+  "description": "Shop commercial refrigerators, freezers, ranges and prep tables plus home appliances. Direct from the manufacturer with free shipping and US-based support."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Commercial Kitchen Equipment & Home Appliances \u2014 Koolmore",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "The best-kept secret\u00a0in appliances"
+    },
+    {
+     "type": "intro",
+     "content": "Shop commercial refrigerators, freezers, ranges and prep tables plus home appliances. Direct from the manufacturer with free shipping and US-based support."
+    }
+   ]
+  },
+  {
+   "path": "/pages/residential",
+   "title": "Residential",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/pages/residential-refrigerators",
+   "title": "refrigerators",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/collections/residential-back-bar-cooler",
+   "title": "Back Bar Cooler",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/collections/beverage-refrigerators",
+   "title": "Beverage Refrigerator",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "149 non-neutral hexes, 423 links parsed"
+}
