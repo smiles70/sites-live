@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Your Trusted Home Care, Personal, Nursing, Pediatric & Hospice Services",
+  "tone": "Trust BAYADA to deliver expert home care, personal, nursing, pediatric, and hosp",
+  "colors": {
+   "primary": "#ce0e2d"
+  },
+  "palette": [
+   "#ce0e2d",
+   "#dfe6eb",
+   "#980019",
+   "#d6dee5",
+   "#f0b6c0"
+  ],
+  "fonts": [
+   "var(--font-secondary)"
+  ]
+ },
+ "source_url": "https://www.bayada.com/",
+ "meta": {
+  "language": "",
+  "description": "Trust BAYADA to deliver expert home care, personal, nursing, pediatric, and hospice services. We provide compassionate support to help families live safely at home."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Your Trusted Home Care, Personal, Nursing, Pediatric & Hospice Services",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Care Beyond Compare\u2014 So You Can Focus on What Matters Most"
+    },
+    {
+     "type": "intro",
+     "content": "Trust BAYADA to deliver expert home care, personal, nursing, pediatric, and hospice services. We provide compassionate support to help families live safely at home."
+    }
+   ]
+  },
+  {
+   "path": "/autism-and-aba",
+   "title": "Autism & ABA Therapy",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/companion-care",
+   "title": "Companion Care",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/habilitation",
+   "title": "Habilitation",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/home-health",
+   "title": "Home Health",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "58 non-neutral hexes, 152 links parsed"
+}
