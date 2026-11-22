@@ -1,0 +1,9 @@
+# Affordable Care
+
+> Affordable Care, LLC is America’s largest dental support organization focused on tooth replacement services. We serve dental practices across the U.S.
+
+- [Affordable Care](/)
+- [About Us](/about-us)
+- [Community](/community)
+- [News](/news)
+- [Contact Us](/contact-us)

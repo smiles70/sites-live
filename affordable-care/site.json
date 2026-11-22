@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Affordable Care",
+  "tone": "Affordable Care, LLC is America\u2019s largest dental support organization focused on",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.affordablecare.com/",
+ "meta": {
+  "language": "",
+  "description": "Affordable Care, LLC is America\u2019s largest dental support organization focused on tooth replacement services. We serve dental practices across the U.S."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Affordable Care",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Everyone deserves to love their teeth."
+    },
+    {
+     "type": "intro",
+     "content": "Affordable Care, LLC is America\u2019s largest dental support organization focused on tooth replacement services. We serve dental practices across the U.S."
+    }
+   ]
+  },
+  {
+   "path": "/about-us",
+   "title": "About Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/community",
+   "title": "Community",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/news",
+   "title": "News",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/contact-us",
+   "title": "Contact Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 24 links parsed"
+}
