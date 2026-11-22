@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Ferguson Roofing",
+  "tone": "Ferguson Roofing sets the standard for roofing and exterior work\u2014on time, on bud",
+  "colors": {
+   "primary": "#ea0029"
+  },
+  "palette": [
+   "#ea0029",
+   "#181716",
+   "#69727d",
+   "#d30126",
+   "#33373d"
+  ],
+  "fonts": [
+   "-apple-system",
+   "inherit",
+   "monospace"
+  ]
+ },
+ "source_url": "https://www.fergusonroofing.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Ferguson Roofing sets the standard for roofing and exterior work\u2014on time, on budget, and with respect for your home and investment."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Ferguson Roofing",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Residential & Commercial Roofing and Exterior Services"
+    },
+    {
+     "type": "intro",
+     "content": "Ferguson Roofing sets the standard for roofing and exterior work\u2014on time, on budget, and with respect for your home and investment."
+    }
+   ]
+  },
+  {
+   "path": "/st-louis/",
+   "title": "St. Louis",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/st-louis/instant-quote/",
+   "title": "Instant Quote",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/st-louis/contact/",
+   "title": "BOOK NOW",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/st-louis/residential/",
+   "title": "LEARN MORE",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "117 non-neutral hexes, 379 links parsed"
+}
