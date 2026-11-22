@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Donely Outdoor Equipment",
+  "tone": "At DONELY Outdoor Equipment, we are proud to serve the South San Antonio area as",
+  "colors": {
+   "primary": "#de8a26"
+  },
+  "palette": [
+   "#de8a26",
+   "#f4f3f0",
+   "#c77c22",
+   "#909090",
+   "#979797"
+  ],
+  "fonts": [
+   "Assistant"
+  ]
+ },
+ "source_url": "https://www.donely.com/",
+ "meta": {
+  "language": "",
+  "description": "At DONELY Outdoor Equipment, we are proud to serve the South San Antonio area as a trusted provider of high-quality commercial and residential outdoor power equipment. Conveniently located on SE Loop 410, our facility is a full-service sales and repair center dedicated to supporting homeowners, landscaping professional"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Donely Outdoor Equipment",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Donely Outdoor Equipment"
+    },
+    {
+     "type": "intro",
+     "content": "At DONELY Outdoor Equipment, we are proud to serve the South San Antonio area as a trusted provider of high-quality commercial and residential outdoor power equipment. Conveniently located on SE Loop 410, our facility is a full-service sales and repair center dedicated to supporting homeowners, landscaping professional"
+    }
+   ]
+  },
+  {
+   "path": "/account/login",
+   "title": "Login",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/account/register",
+   "title": "Register",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/cart",
+   "title": "Check out",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/pages/wishlist",
+   "title": "Wish list (",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "79 non-neutral hexes, 101 links parsed"
+}
