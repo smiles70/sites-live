@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Marsh Agency",
+  "tone": "Marsh Agency delivers insurance, employee benefits, and retirement solutions wit",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.marshmma.com/",
+ "meta": {
+  "language": "",
+  "description": "Marsh Agency delivers insurance, employee benefits, and retirement solutions with the specialists, insights, and support to help you plan ahead."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Marsh Agency | USA Insurance Leaders",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "What can we help you with?"
+    },
+    {
+     "type": "intro",
+     "content": "Marsh Agency delivers insurance, employee benefits, and retirement solutions with the specialists, insights, and support to help you plan ahead."
+    }
+   ]
+  },
+  {
+   "path": "/us/home.html",
+   "title": "United States(English)",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/ca/en/home.html",
+   "title": "Canada(English)",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/ca/fr/home.html",
+   "title": "Canada(Fran\u00e7ais)",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/us/careers/careers-at-mma.html",
+   "title": "Insurance Careers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 153 links parsed"
+}
