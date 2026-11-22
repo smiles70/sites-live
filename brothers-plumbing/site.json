@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Brothers Plumbing, Heating, & Electric",
+  "tone": "Denver plumbers at Brothers Plumbing & Heating offer fast plumbing repair in Den",
+  "colors": {
+   "primary": "#e50c0f"
+  },
+  "palette": [
+   "#e50c0f",
+   "#cd0b0e",
+   "#fbe3e4",
+   "#7a0608",
+   "#e6efc2"
+  ],
+  "fonts": [
+   "Roboto",
+   "lato",
+   "franklin-gothic-std"
+  ]
+ },
+ "source_url": "https://www.brothersplumbing.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Denver plumbers at Brothers Plumbing & Heating offer fast plumbing repair in Denver. Call (303) 451-5057 today for fast Denver plumbing service and repair"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Denver Plumbers at Brothers Plumbing | Plumbing Denver for 40 Years",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Denver's Trusted"
+    },
+    {
+     "type": "intro",
+     "content": "Denver plumbers at Brothers Plumbing & Heating offer fast plumbing repair in Denver. Call (303) 451-5057 today for fast Denver plumbing service and repair"
+    }
+   ]
+  },
+  {
+   "path": "/homecareclub/",
+   "title": "Maintenance Plans",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/online-coupon/",
+   "title": "Coupons",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/financing/",
+   "title": "Financing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/employment/",
+   "title": "Employment",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "116 non-neutral hexes, 403 links parsed"
+}
