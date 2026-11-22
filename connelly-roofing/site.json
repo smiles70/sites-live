@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "connellyroofinginc",
+  "tone": "Proudly serving the Chicagoland area for over 30 years, Connelly Roofing Inc. is",
+  "colors": {
+   "primary": "#303030"
+  },
+  "palette": [
+   "#303030",
+   "#1c8a43",
+   "#8f8f8f",
+   "#efefef",
+   "#f9cd19"
+  ],
+  "fonts": [
+   "Arial",
+   "Helvetica",
+   "helvetica-w01-light"
+  ]
+ },
+ "source_url": "https://www.connellyroofinginc.com/",
+ "meta": {
+  "language": "",
+  "description": "Proudly serving the Chicagoland area for over 30 years, Connelly Roofing Inc. is a family-owned and operated residential roofing company that's dedicated to protecting your home with expert craftsmanship and superior service."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Connelly Roofing Inc. | Villa Park IL | Residential Roofing",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "CONNELLY"
+    },
+    {
+     "type": "intro",
+     "content": "Proudly serving the Chicagoland area for over 30 years, Connelly Roofing Inc. is a family-owned and operated residential roofing company that's dedicated to protecting your home with expert craftsmanship and superior service."
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "title": "ABOUT",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/community",
+   "title": "COMMUNITY",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/ourprocess",
+   "title": "OUR PROCESS",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/projectdesign",
+   "title": "PROJECT DESIGN",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "278 non-neutral hexes, 33 links parsed"
+}
