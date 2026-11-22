@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "Scotti Family Roofing",
+  "tone": "Scotti Family Roofing, a family-owned roofing contractor in West Central Florida",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://scottifamilyroofing.com/",
+ "meta": {
+  "language": "",
+  "description": "Scotti Family Roofing, a family-owned roofing contractor in West Central Florida. Licensed and insured. See your roof price instantly, or call 352-605-2527."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Scotti Family Roofing | Family-Owned Roofing Contractor",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Family-owned"
+    },
+    {
+     "type": "intro",
+     "content": "Scotti Family Roofing, a family-owned roofing contractor in West Central Florida. Licensed and insured. See your roof price instantly, or call 352-605-2527."
+    }
+   ]
+  },
+  {
+   "path": "/services",
+   "title": "Services",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/instant-estimate",
+   "title": "Instant Estimate",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/financing",
+   "title": "Financing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/reviews",
+   "title": "Reviews",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 66 links parsed"
+}
