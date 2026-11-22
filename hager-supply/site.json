@@ -1,0 +1,33 @@
+{
+ "brand": {
+  "name": "Express Ship",
+  "tone": "Hager supplies including Locks, Door closers, Exit devices, Electrified products",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.hagersupply.com/",
+ "meta": {
+  "language": "",
+  "description": "Hager supplies including Locks, Door closers, Exit devices, Electrified products, Architectural hinges, Residential hinges and more"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Express Ship",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Hager"
+    },
+    {
+     "type": "intro",
+     "content": "Hager supplies including Locks, Door closers, Exit devices, Electrified products, Architectural hinges, Residential hinges and more"
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 76 links parsed"
+}
