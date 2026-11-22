@@ -1,0 +1,75 @@
+{
+ "brand": {
+  "name": "Hentges Dental",
+  "tone": "Hentges Dental provides comprehensive dental care in Mesa, AZ. Dr. Zach Hentges ",
+  "colors": {
+   "primary": "#f9fafb"
+  },
+  "palette": [
+   "#f9fafb"
+  ],
+  "fonts": []
+ },
+ "source_url": "https://www.christensenfamilydentistry.com/",
+ "meta": {
+  "language": "",
+  "description": "Hentges Dental provides comprehensive dental care in Mesa, AZ. Dr. Zach Hentges offers implants, veneers, crowns, and emergency dental services. Call (480) 964-2131 today!"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Hentges Dental | Trusted Dentist in Mesa, AZ",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Hentges Dental"
+    },
+    {
+     "type": "intro",
+     "content": "Hentges Dental provides comprehensive dental care in Mesa, AZ. Dr. Zach Hentges offers implants, veneers, crowns, and emergency dental services. Call (480) 964-2131 today!"
+    }
+   ]
+  },
+  {
+   "path": "/request-appointment",
+   "title": "Request Appointment",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "title": "About",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/Dr-Zach-Hentges",
+   "title": "Zach Hentges, DMD",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/Dr-Leo-Christensen",
+   "title": "Leo Christensen, DDS",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "1 non-neutral hexes, 60 links parsed"
+}
