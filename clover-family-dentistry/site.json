@@ -1,0 +1,79 @@
+{
+ "brand": {
+  "name": "Clover Family Dentistry",
+  "tone": "Dentist Clover SC offers Dental Implants, Porcelain Veneers, Teeth Whitening and",
+  "colors": {
+   "primary": "#abb8c3"
+  },
+  "palette": [
+   "#abb8c3",
+   "#f78da7",
+   "#cf2e2e",
+   "#ff6900",
+   "#fcb900"
+  ],
+  "fonts": []
+ },
+ "source_url": "https://www.drcatherinemyrick.com/",
+ "meta": {
+  "language": "",
+  "description": "Dentist Clover SC offers Dental Implants, Porcelain Veneers, Teeth Whitening and more. (803) 222-4518"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Dentist Clover SC | Cosmetic DentistryClick to open and close visual accessibility options. The options include increasing font-size and color contrast.White Text on BlackBlack Text on WhiteIncrease Font SizeDecrease Font SizeReset Font Styles",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Dentist in Clover, SC"
+    },
+    {
+     "type": "intro",
+     "content": "Dentist Clover SC offers Dental Implants, Porcelain Veneers, Teeth Whitening and more. (803) 222-4518"
+    }
+   ]
+  },
+  {
+   "path": "/patient-information/",
+   "title": "Patient Information",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/patient-information/introduction/",
+   "title": "Welcome",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/patient-information/why-choose-us/",
+   "title": "Why Choose Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/patient-information/new-patients/",
+   "title": "New Patients",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "10 non-neutral hexes, 74 links parsed"
+}
