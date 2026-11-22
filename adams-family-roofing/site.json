@@ -1,0 +1,77 @@
+{
+ "brand": {
+  "name": "Roofing Company Tyler & Longview, TX",
+  "tone": "Adams Family Roofing is a NEW Roofing Company serving Tyler & Longview, TX. If y",
+  "colors": {
+   "primary": "#e8470f"
+  },
+  "palette": [
+   "#e8470f",
+   "#13191c",
+   "#ee161f"
+  ],
+  "fonts": []
+ },
+ "source_url": "https://www.adamsfamilyroofing.com/",
+ "meta": {
+  "language": "",
+  "description": "Adams Family Roofing is a NEW Roofing Company serving Tyler & Longview, TX. If you\u2019re looking for an experienced roofer near you, contact us\u2014903-484-4231."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Roofing Company Tyler & Longview, TX | Adams Family Roofing",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Family First"
+    },
+    {
+     "type": "intro",
+     "content": "Adams Family Roofing is a NEW Roofing Company serving Tyler & Longview, TX. If you\u2019re looking for an experienced roofer near you, contact us\u2014903-484-4231."
+    }
+   ]
+  },
+  {
+   "path": "/about/about-us/",
+   "title": "About Us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about/careers/",
+   "title": "Careers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/roofing/repair/",
+   "title": "Repair",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/roofing/replacements/",
+   "title": "Replacements",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "16 non-neutral hexes, 71 links parsed"
+}
