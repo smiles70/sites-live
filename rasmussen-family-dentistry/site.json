@@ -1,0 +1,33 @@
+{
+ "brand": {
+  "name": "Rasmussen Family Dentistry",
+  "tone": "Rasmussen Family Dentistry",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.rasmussenfamilydentistry.com/",
+ "meta": {
+  "language": "",
+  "description": "Rasmussen Family Dentistry"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Rasmussen Family Dentistry",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Home"
+    },
+    {
+     "type": "intro",
+     "content": "Rasmussen Family Dentistry"
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 4 links parsed"
+}
