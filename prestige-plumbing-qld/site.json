@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "PRESTIGE PLUMBING QLD",
+  "tone": "PRESTIGE PLUMBING QLD",
+  "colors": {
+   "primary": "#0e1b4d"
+  },
+  "palette": [
+   "#0e1b4d",
+   "#eff0f5",
+   "#4770db",
+   "#029ce3",
+   "#fff1e3"
+  ],
+  "fonts": [
+   "Questrial",
+   "Archivo",
+   "var(--font-body-family)"
+  ]
+ },
+ "source_url": "https://www.prestigeplumbingqld.com/",
+ "meta": {
+  "language": "",
+  "description": "PRESTIGE PLUMBING QLD"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "PRESTIGE PLUMBING QLD",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Your cart is empty"
+    },
+    {
+     "type": "intro",
+     "content": "PRESTIGE PLUMBING QLD"
+    }
+   ]
+  },
+  {
+   "path": "/collections/all",
+   "title": "Continue shopping",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/customer_authentication/redirect",
+   "title": "Log in",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/policies/shipping-policy",
+   "title": "shipping",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/pages/contact",
+   "title": "CONTACT",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "12 non-neutral hexes, 24 links parsed"
+}
