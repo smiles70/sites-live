@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Your Local Agent Insurance Agency",
+  "tone": "Start saving on Insurance today with Your Local Agent, Deland, FL. Great coverag",
+  "colors": {
+   "primary": "#1f949e"
+  },
+  "palette": [
+   "#1f949e",
+   "#f97803",
+   "#ff6d34",
+   "#292929",
+   "#555d66"
+  ],
+  "fonts": [
+   "Helvetica",
+   "inherit",
+   "Astra"
+  ]
+ },
+ "source_url": "https://yourlocalagentinsurance.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Start saving on Insurance today with Your Local Agent, Deland, FL. Great coverage at the right price. Call (386) 532-1442."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Deland, FL Insurance - Your Local Agent Insurance Agency",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "YOUR LOCAL AGENT"
+    },
+    {
+     "type": "intro",
+     "content": "Start saving on Insurance today with Your Local Agent, Deland, FL. Great coverage at the right price. Call (386) 532-1442."
+    }
+   ]
+  },
+  {
+   "path": "/quote/",
+   "title": "Free Quote",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/home-insurance/",
+   "title": "Home Insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/condo-insurance/",
+   "title": "Condo Insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/renters-insurance-2/",
+   "title": "Renters Insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "167 non-neutral hexes, 63 links parsed"
+}
