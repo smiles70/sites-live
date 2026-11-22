@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Istueta Roofing",
+  "tone": "Family-owned Miami roofer since 1985. Tile, metal, asphalt shingle, and flat roo",
+  "colors": {
+   "primary": "#a8131a"
+  },
+  "palette": [
+   "#a8131a",
+   "#16140f",
+   "#cfc8bd",
+   "#faf7f5",
+   "#4a4641"
+  ],
+  "fonts": [
+   "var(--font-sans)",
+   "var(--font-sans",
+   "var(--font-display"
+  ]
+ },
+ "source_url": "https://www.istuetaroofing.com/",
+ "meta": {
+  "language": "",
+  "description": "Family-owned Miami roofer since 1985. Tile, metal, asphalt shingle, and flat roofing for South Florida homes. CertainTeed PRO, MRA award winner."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Istueta Roofing | Miami Premier Roof Specialists Since 1985",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Search Istueta Roofing"
+    },
+    {
+     "type": "intro",
+     "content": "Family-owned Miami roofer since 1985. Tile, metal, asphalt shingle, and flat roofing for South Florida homes. CertainTeed PRO, MRA award winner."
+    }
+   ]
+  },
+  {
+   "path": "/get-an-estimate/",
+   "title": "BLACK FRIDAY SPECIAL",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/roof-replacement/",
+   "title": "Roof Replacement",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/metal-roofing/",
+   "title": "Metal Roofing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/metal-roofing/copper/",
+   "title": "Copper Metal Roofs",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "75 non-neutral hexes, 283 links parsed"
+}
