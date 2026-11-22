@@ -1,0 +1,43 @@
+{
+ "brand": {
+  "name": "KevmoPlumbing",
+  "tone": "Kevmo Plumbing & More is a local family-owned and operated plumbing and handyman",
+  "colors": {
+   "primary": "#2b5672"
+  },
+  "palette": [
+   "#2b5672",
+   "#116dff",
+   "#062794",
+   "#e03939",
+   "#5d5d61"
+  ],
+  "fonts": [
+   "Arial",
+   "Helvetica",
+   "avenir-lt-w01_85-heavy1475544"
+  ]
+ },
+ "source_url": "https://www.kevmoplumbing.com/",
+ "meta": {
+  "language": "",
+  "description": "Kevmo Plumbing & More is a local family-owned and operated plumbing and handyman company! We always provide PROMPT, PROFESSIONAL & PRESTINE services to every customer, every time."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Plumbing | Kevmo Plumbing & More | Michigan",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "PLUMBING"
+    },
+    {
+     "type": "intro",
+     "content": "Kevmo Plumbing & More is a local family-owned and operated plumbing and handyman company! We always provide PROMPT, PROFESSIONAL & PRESTINE services to every customer, every time."
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "118 non-neutral hexes, 8 links parsed"
+}
