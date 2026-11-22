@@ -1,0 +1,82 @@
+{
+ "brand": {
+  "name": "Mancuso-Nowak Insurance Agency",
+  "tone": "Looking for an independent insurance agency in Shrewsbury? Mancuso-Nowak offers ",
+  "colors": {
+   "primary": "#112337"
+  },
+  "palette": [
+   "#112337",
+   "#f5f5f5",
+   "#046bd2",
+   "#475569",
+   "#204ce5"
+  ],
+  "fonts": [
+   "-apple-system",
+   "inherit"
+  ]
+ },
+ "source_url": "https://mancuso-nowak.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Looking for an independent insurance agency in Shrewsbury? Mancuso-Nowak offers home, auto, business and life coverage with personal service. Get a quote today!"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Independent Insurance Agency Shrewsbury MA | Mancuso-Nowak",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Life happens."
+    },
+    {
+     "type": "intro",
+     "content": "Looking for an independent insurance agency in Shrewsbury? Mancuso-Nowak offers home, auto, business and life coverage with personal service. Get a quote today!"
+    }
+   ]
+  },
+  {
+   "path": "/customer-service/report-a-claim/",
+   "title": "Report a claim",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/customer-service/pay-a-bill/",
+   "title": "Pay a bill",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/insurance/personal-insurance/",
+   "title": "Personal insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/insurance/home-insurance/",
+   "title": "Home insurance",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "127 non-neutral hexes, 58 links parsed"
+}
