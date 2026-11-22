@@ -1,0 +1,76 @@
+{
+ "brand": {
+  "name": "Insurance Brokerage and Consulting",
+  "tone": "",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": [
+   "Aptos",
+   "Rockwell"
+  ]
+ },
+ "source_url": "https://www.usi.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Insurance Brokerage and Consulting | USI Insurance Services",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "2026 Commercial Property & Casualty Market Outlook Addendum"
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about-usi/the-power-of-one/",
+   "title": "About USI",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about-usi/the-power-of-one/the-usi-one-advantage/",
+   "title": "The USI ONE Advantage",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about-usi/the-power-of-one/developing-talent-careers/",
+   "title": "Developing Talent & Careers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about-usi/the-power-of-one/social-responsibility/",
+   "title": "Social Responsibility",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 98 links parsed"
+}
