@@ -1,0 +1,75 @@
+{
+ "brand": {
+  "name": "Champlain Valley Senior Community",
+  "tone": "",
+  "colors": {
+   "primary": "#00a300"
+  },
+  "palette": [
+   "#00a300"
+  ],
+  "fonts": []
+ },
+ "source_url": "https://www.champlainassistedliving.com/",
+ "meta": {
+  "language": "",
+  "description": ""
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Champlain Valley Senior Community",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Assisted Living & Memory Care in the Adirondacks"
+    },
+    {
+     "type": "intro",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/assisted-living",
+   "title": "Assisted Living",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/assisted-living/24-hour-assisted-living-care-near-plattsburgh-ny",
+   "title": "24-Hour Care",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/assisted-living/medication-management-assisted-living",
+   "title": "Medication Management",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/assisted-living/rehabilitation-services",
+   "title": "Rehabilitation Services",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "2 non-neutral hexes, 80 links parsed"
+}
