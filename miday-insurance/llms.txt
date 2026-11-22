@@ -1,0 +1,9 @@
+# Miday Insurance Agency
+
+> Local auto, home, business, health and life insurance in Red Springs, NC. Miday Insurance Agency serves Robeson County and communities across North and South Carolina.
+
+- [Miday Insurance Agency | Local Insurance in Red Springs, NC](/)
+- [Text us](+19108439919)
+- [Privacy](/AgencyApp/privacy.htm)
+- [Agent Login](/AgencyApp/AgentLogin.php)
+- [Request a quote](/AgencyApp/Email_Msg.php)

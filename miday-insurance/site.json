@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Miday Insurance Agency",
+  "tone": "Local auto, home, business, health and life insurance in Red Springs, NC. Miday ",
+  "colors": {
+   "primary": "#dcebf5"
+  },
+  "palette": [
+   "#dcebf5",
+   "#8dbbd3",
+   "#102f4b",
+   "#174e73",
+   "#1876a8"
+  ],
+  "fonts": [
+   "Inter"
+  ]
+ },
+ "source_url": "https://midayins.com/",
+ "meta": {
+  "language": "",
+  "description": "Local auto, home, business, health and life insurance in Red Springs, NC. Miday Insurance Agency serves Robeson County and communities across North and South Carolina."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Miday Insurance Agency | Local Insurance in Red Springs, NC",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Insurance guidance for real life in the Carolinas."
+    },
+    {
+     "type": "intro",
+     "content": "Local auto, home, business, health and life insurance in Red Springs, NC. Miday Insurance Agency serves Robeson County and communities across North and South Carolina."
+    }
+   ]
+  },
+  {
+   "path": "+19108439919",
+   "title": "Text us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/AgencyApp/privacy.htm",
+   "title": "Privacy",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/AgencyApp/AgentLogin.php",
+   "title": "Agent Login",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/AgencyApp/Email_Msg.php",
+   "title": "Request a quote",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "68 non-neutral hexes, 57 links parsed"
+}
