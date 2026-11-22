@@ -1,0 +1,73 @@
+{
+ "brand": {
+  "name": "PASCHAL",
+  "tone": "PASCHAL is an internationally well-known provider of concrete formwork & formwor",
+  "colors": {
+   "primary": ""
+  },
+  "palette": [],
+  "fonts": []
+ },
+ "source_url": "https://www.paschal.com/",
+ "meta": {
+  "language": "",
+  "description": "PASCHAL is an internationally well-known provider of concrete formwork & formwork planning software. More about PASCHAL in Canada!"
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "PASCHAL-Werk G. Maier GmbH, Formwork and Shoring | Canada",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Formwork for the optimum concrete construction"
+    },
+    {
+     "type": "intro",
+     "content": "PASCHAL is an internationally well-known provider of concrete formwork & formwork planning software. More about PASCHAL in Canada!"
+    }
+   ]
+  },
+  {
+   "path": "/english/products/index.php",
+   "title": "Products",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/english/products/Innovations.php",
+   "title": "Innovations",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/english/products/wall_formwork/index_wall_formwork.php",
+   "title": "Wall formwork",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/english/products/wall_formwork/modular-GE_wall_formwork.php",
+   "title": "Universal Formwork Modular/GE",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "0 non-neutral hexes, 234 links parsed"
+}
