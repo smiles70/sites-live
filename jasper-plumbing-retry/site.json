@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "Jasper Plumbing Services, LLC",
+  "tone": "Family-owned Amarillo plumber since 1953. 24/7 emergency service, drain cleaning",
+  "colors": {
+   "primary": "#ff6900"
+  },
+  "palette": [
+   "#ff6900",
+   "#2ea3f2",
+   "#326bff",
+   "#1e68b2",
+   "#1959ff"
+  ],
+  "fonts": [
+   "inherit",
+   "Open Sans",
+   "Courier New"
+  ]
+ },
+ "source_url": "https://jasperplumbing.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Family-owned Amarillo plumber since 1953. 24/7 emergency service, drain cleaning, water heaters, sewer and leak repair. Call (806) 731-2222."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Plumber in Amarillo, TX | Jasper Plumbing Services",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Trusted"
+    },
+    {
+     "type": "intro",
+     "content": "Family-owned Amarillo plumber since 1953. 24/7 emergency service, drain cleaning, water heaters, sewer and leak repair. Call (806) 731-2222."
+    }
+   ]
+  },
+  {
+   "path": "/residential-plumbing/",
+   "title": "Residential",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/emergency-plumbing/",
+   "title": "Emergency Plumbing",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/drain-cleaning/",
+   "title": "Drain Cleaning",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/water-heaters/",
+   "title": "Water Heaters",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "119 non-neutral hexes, 110 links parsed"
+}
