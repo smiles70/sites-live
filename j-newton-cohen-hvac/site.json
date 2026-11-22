@@ -1,0 +1,83 @@
+{
+ "brand": {
+  "name": "J Newton Cohen |",
+  "tone": "At J Newton Cohen, we\u2019ve been a trusted name in the Salisbury, North Carolina co",
+  "colors": {
+   "primary": "#2ea3f2"
+  },
+  "palette": [
+   "#2ea3f2",
+   "#334c93",
+   "#344c94",
+   "#fe353d",
+   "#ed1b24"
+  ],
+  "fonts": [
+   "Open Sans",
+   "Courier New",
+   "inherit"
+  ]
+ },
+ "source_url": "https://cohenhvac.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "At J Newton Cohen, we\u2019ve been a trusted name in the Salisbury, North Carolina community for more than 90 years, and our service professionals are here to help you address your heating and cooling needs all year long."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Trusted Heating & Cooling Services in Salisbury, NC | J Newton Cohen",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Family Owned Heating and Air Conditioning Solutions"
+    },
+    {
+     "type": "intro",
+     "content": "At J Newton Cohen, we\u2019ve been a trusted name in the Salisbury, North Carolina community for more than 90 years, and our service professionals are here to help you address your heating and cooling needs all year long."
+    }
+   ]
+  },
+  {
+   "path": "/about-j-newton-cohen/",
+   "title": "About",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/air-conditioning/",
+   "title": "Air",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/air-conditioning/air-conditioners/",
+   "title": "Air Conditioners",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/air-conditioning/air-conditioners/commercial-air-conditioners/",
+   "title": "Commercial Air Conditioners",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "101 non-neutral hexes, 106 links parsed"
+}
