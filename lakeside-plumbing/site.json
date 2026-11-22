@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Lakeside Plumbing Inc",
+  "tone": "Our family owned and operated plumbing company provides residential and commerci",
+  "colors": {
+   "primary": "#2b7bb9"
+  },
+  "palette": [
+   "#2b7bb9",
+   "#757575",
+   "#32373c",
+   "#313131",
+   "#00d084"
+  ],
+  "fonts": [
+   "inherit"
+  ]
+ },
+ "source_url": "https://www.lakesideplumb.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Our family owned and operated plumbing company provides residential and commercial plumbing services in Arlington Heights, Deerfield, Glenview, Highland Park, Northbrook, Palatine, Buffalo Grove, Riverwoods and the surrounding areas."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Plumber Buffalo Grove, IL | Arlington Heights, Palatine, Deerfield, Riverwoods, Glenview",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Lakeside Plumbing, Inc."
+    },
+    {
+     "type": "intro",
+     "content": "Our family owned and operated plumbing company provides residential and commercial plumbing services in Arlington Heights, Deerfield, Glenview, Highland Park, Northbrook, Palatine, Buffalo Grove, Riverwoods and the surrounding areas."
+    }
+   ]
+  },
+  {
+   "path": "/about-us/",
+   "title": "About",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/plumbing-service/",
+   "title": "Plumbing Service",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/plumbing-repair/",
+   "title": "Plumbing Repair",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/bathroom-kitchen-remodeling-services/",
+   "title": "Plumbing Installation",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "118 non-neutral hexes, 95 links parsed"
+}
