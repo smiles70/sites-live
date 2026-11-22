@@ -1,0 +1,82 @@
+{
+ "brand": {
+  "name": "TruTechnology",
+  "tone": "Is your business ready to use IT as an enabler for growth and productivity? TruT",
+  "colors": {
+   "primary": "#32373c"
+  },
+  "palette": [
+   "#32373c",
+   "#0073e5",
+   "#abb8c3",
+   "#f78da7",
+   "#cf2e2e"
+  ],
+  "fonts": [
+   "inherit",
+   "Open Sans"
+  ]
+ },
+ "source_url": "https://www.trutech.com/",
+ "meta": {
+  "language": "en_US",
+  "description": "Is your business ready to use IT as an enabler for growth and productivity? TruTech provides Flat Rate IT services that produce results for your business."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Business IT Services | Jacksonville, FL | TruTechnology",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "IT Solutions to Solve Your"
+    },
+    {
+     "type": "intro",
+     "content": "Is your business ready to use IT as an enabler for growth and productivity? TruTech provides Flat Rate IT services that produce results for your business."
+    }
+   ]
+  },
+  {
+   "path": "/careers/",
+   "title": "Join Our Team",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/support-center/",
+   "title": "support",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/request-a-quote/",
+   "title": "Start A Conversation",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about/",
+   "title": "About us",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "63 non-neutral hexes, 68 links parsed"
+}
