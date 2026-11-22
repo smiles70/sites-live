@@ -1,0 +1,81 @@
+{
+ "brand": {
+  "name": "Family & Cosmetic Dentist serving Holden, Rutland, Paxton, Princeton and Sterling",
+  "tone": "We are a small dental office located in Holden, MA that is focused on patients, ",
+  "colors": {
+   "primary": "#24305e"
+  },
+  "palette": [
+   "#24305e",
+   "#32373c",
+   "#394c95",
+   "#4056a8",
+   "#131932"
+  ],
+  "fonts": [
+   "inherit"
+  ]
+ },
+ "source_url": "https://www.mulroyfamilydental.com/",
+ "meta": {
+  "language": "",
+  "description": "We are a small dental office located in Holden, MA that is focused on patients, not numbers.\u00a0 We are happy to spend the extra time it takes to ensure your care is managed in a thoughtful and personal manner, and are proud to be able to use the\u00a0best quality materials and provide the highest level o..."
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Family & Cosmetic Dentist serving Holden, Rutland, Paxton, Princeton and Sterling \u2013 508.829.3698",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "Brighter, Straighter, Whiter"
+    },
+    {
+     "type": "intro",
+     "content": "We are a small dental office located in Holden, MA that is focused on patients, not numbers.\u00a0 We are happy to spend the extra time it takes to ensure your care is managed in a thoughtful and personal manner, and are proud to be able to use the\u00a0best quality materials and provide the highest level o..."
+    }
+   ]
+  },
+  {
+   "path": "/our-approach",
+   "title": "Our Approach",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "title": "Our Team",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/our-services",
+   "title": "Our Services",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/our-services/invisalign-3",
+   "title": "Invisalign",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "98 non-neutral hexes, 45 links parsed"
+}
