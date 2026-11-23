@@ -1,0 +1,86 @@
+{
+ "brand": {
+  "name": "Shark Wheel",
+  "tone": "Shark Wheel is a skateboard wheel company that specializes in a new type of whee",
+  "colors": {
+   "primary": "#e5e5e5"
+  },
+  "palette": [
+   "#e5e5e5",
+   "#d6d6d6",
+   "#f5b800",
+   "#737373",
+   "#dadada"
+  ],
+  "fonts": [
+   "Arial"
+  ]
+ },
+ "source_url": "https://www.sharkwheel.com",
+ "meta": {
+  "language": "",
+  "description": "Shark Wheel is a skateboard wheel company that specializes in a new type of wheel that is faster, smoother, longer lasting and is all superior on all terrain "
+ },
+ "pages": [
+  {
+   "path": "/",
+   "title": "Shark Wheel",
+   "sections": [
+    {
+     "type": "hero",
+     "content": "WHEELS"
+    },
+    {
+     "type": "intro",
+     "content": "Shark Wheel is a skateboard wheel company that specializes in a new type of wheel that is faster, smoother, longer lasting and is all superior on all terrain "
+    }
+   ]
+  },
+  {
+   "path": "/new-offers/",
+   "title": "Offers",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/wheel-categories/",
+   "title": "Wheels",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/complete-boards/",
+   "title": "Completes",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  },
+  {
+   "path": "/wheels/bundle-pack-deals/",
+   "title": "Bundles",
+   "sections": [
+    {
+     "type": "text",
+     "content": ""
+    }
+   ]
+  }
+ ],
+ "slurp_notes": "9 non-neutral hexes, 275 links parsed",
+ "competitors": [
+  "spitfirewheels.com",
+  "boneswheels.com",
+  "ojwheels.com"
+ ]
+}
